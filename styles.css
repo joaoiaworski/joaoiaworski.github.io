@@ -1,5 +1,4 @@
 body {
-    background-color: #89f1f1;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -65,4 +64,17 @@ form button {
 
 form button:hover {
     background-color: #555;
+}
+
+.projeto {
+    margin-bottom: 20px;
+}
+
+.projeto h3 {
+    margin-top: 0;
+}
+
+.projeto img {
+    max-width: 100%;
+    height: auto;
 }
